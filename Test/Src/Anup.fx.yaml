@@ -12,3 +12,9 @@ Anup As screen:
         Y: =40
         ZIndex: =2
 
+    TextInput4 As text:
+        Default: ="Text input"
+        X: =144
+        Y: =136
+        ZIndex: =3
+
