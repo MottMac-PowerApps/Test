@@ -14,19 +14,19 @@
             {
               "logicalLocations": [
                 {
-                  "fullyQualifiedName": "Vinita.TextInput1.AccessibleLabel"
+                  "fullyQualifiedName": "Anup.TextInput1.AccessibleLabel"
                 }
               ],
               "physicalLocation": {
                 "address": {
-                  "fullyQualifiedName": "Vinita.TextInput1.AccessibleLabel",
+                  "fullyQualifiedName": "Anup.TextInput1.AccessibleLabel",
                   "relativeAddress": 0
                 }
               },
               "properties": {
                 "member": "AccessibleLabel",
-                "module": "Vinita",
-                "type": "Vinita.TextInput1"
+                "module": "Anup",
+                "type": "Anup.TextInput1"
               }
             }
           ],
