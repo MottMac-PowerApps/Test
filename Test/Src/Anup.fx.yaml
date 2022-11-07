@@ -12,3 +12,9 @@ Anup As screen:
         Y: =40
         ZIndex: =2
 
+    lblAnup As label:
+        Text: ="Anup"
+        X: =162
+        Y: =131
+        ZIndex: =3
+
