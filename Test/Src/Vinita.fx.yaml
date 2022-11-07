@@ -12,3 +12,15 @@ Vinita As screen:
         Y: =112
         ZIndex: =2
 
+    Label2 As label:
+        Text: ="Text"
+        X: =190
+        Y: =40
+        ZIndex: =3
+
+    TextInput1 As text:
+        Default: ="Text input"
+        X: =340
+        Y: =40
+        ZIndex: =4
+
