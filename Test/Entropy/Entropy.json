@@ -1,18 +1,9 @@
 {
   "ComponentIndexes": {},
   "ControlUniqueGuids": {},
-  "ControlUniqueIds": {
-    "Anup": 3,
-    "App": 1,
-    "Button1": 6,
-    "Label1": 5,
-    "Label2": 7,
-    "TextInput1": 8,
-    "Vinita": 4
-  },
+  "ControlUniqueIds": {},
   "FunctionParamsInvariantScripts": {},
   "FunctionParamsInvariantScriptsOnInstances": {},
-  "HeaderLastSavedDateTimeUTC": "11/07/2022 11:27:14",
   "IsLegacyComponentAllowGlobalScopeCase": false,
   "LocalConnectionIDReferences": {},
   "LocalDatabaseReferencesAsEmpty": false,
@@ -24,30 +15,9 @@
   "OrderGroupControls": {},
   "OrderPcfTemplate": {},
   "OrderTemplate": {},
-  "OrderXMLTemplate": {
-    "button": 1,
-    "label": 0,
-    "text": 2
-  },
-  "PublishOrderIndices": {
-    "Anup": 0,
-    "App": 0,
-    "Button1": 0,
-    "Label1": 0,
-    "Label2": 0,
-    "TextInput1": 0,
-    "Vinita": 0
-  },
+  "OrderXMLTemplate": {},
+  "PublishOrderIndices": {},
   "ResourcesJsonIndices": {},
   "RuleScreenIdWithoutScreen": {},
-  "TemplateVersions": {},
-  "VolatileProperties": {
-    "AnalysisLoadTime": 0.0563186,
-    "ControlCount": {
-      "screen": 2
-    },
-    "DeserializationLoadTime": 0.521675,
-    "ErrorCount": 0
-  },
-  "WasLocalDatabaseReferencesEmpty": true
+  "TemplateVersions": {}
 }

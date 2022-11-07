@@ -92,10 +92,10 @@
     "DocumentType": "App",
     "EnableInstrumentation": false,
     "FileID": "131065ae-d163-4d2c-b774-76c5d87ee35c",
-    "Id": "131065ae-d163-4d2c-b774-76c5d87ee35c",
+    "Id": "0483535a-016a-4757-82e1-cdeb34fb752b",
     "InstrumentationKey": "",
     "LocalDatabaseReferences": "{}",
-    "Name": "Test Git Integration",
+    "Name": "Test+Git+Integration.msapp",
     "OriginatingVersion": "1.326"
   },
   "PublishInfo": {
