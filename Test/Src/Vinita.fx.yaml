@@ -1,6 +1,6 @@
 Vinita As screen:
 
-    Label1 As label:
+    lblVinita1 As label:
         Height: =24
         Text: ="Text"
         Width: =89
@@ -10,8 +10,8 @@ Vinita As screen:
 
     Button1 As button:
         Text: ="Button"
-        X: =40
-        Y: =112
+        X: =TextInput4.X
+        Y: =TextInput4.Y+TextInput4.Height+10
         ZIndex: =2
 
     Label2 As label:
@@ -22,13 +22,19 @@ Vinita As screen:
 
     TextInput1 As text:
         Default: ="Text input"
-        X: =718
+        X: =Label2.X + Label2.Width
         Y: =20
         ZIndex: =4
 
     TextInput3 As text:
         Default: ="Text input"
-        X: =190
+        X: =lblVinita1.X+ lblVinita1.Width
         Y: =20
         ZIndex: =5
+
+    TextInput4 As text:
+        Default: ="Text input"
+        X: =60
+        Y: =80
+        ZIndex: =6
 
